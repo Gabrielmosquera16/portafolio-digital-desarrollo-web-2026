@@ -8,6 +8,6 @@
 
 - [x] **PDFs del preliminar y datos semilla:** se incluyen el programa oficial del curso y una presentación general de una página con la fotografía suministrada; ambos aparecen como documentos publicados en el ejemplo de base inicial.
 
-- [ ] **Repositorio público sanitizado:** crear `portafolio-digital-desarrollo-web-2026` en la cuenta `@Gabrielmosquera16` y subir el código, el programa oficial, la fotografía proporcionada y la presentación PDF. Excluir cédula, datos de contacto del facilitador y configuración real de MySQL. El repositorio sigue pendiente porque la sesión GitHub configurada devolvió 401 Bad credentials; el README aclara que GitHub muestra código, pero no ejecuta PHP/MySQL.
+- [x] **Repositorio público sanitizado:** crear `portafolio-digital-desarrollo-web-2026` en la cuenta `@Gabrielmosquera16`, hacerlo público y subir el código, el programa oficial, la fotografía proporcionada y la presentación PDF; excluir cédula, datos de contacto del facilitador y configuración real de MySQL; conservar tres commits significativos en `main`. El README incluye el enlace y aclara que GitHub muestra el código, pero no ejecuta PHP/MySQL.
 
 - [ ] **Planificación semestral del estudiante:** falta el archivo PDF completado del formato FC-FISC-1-2-2017. Añadirlo en `storage/portafolio/01-descripcion-del-curso/` y publicarlo desde el panel cuando Gabriel lo reciba; no se ha fabricado ni completado por cuenta propia.
