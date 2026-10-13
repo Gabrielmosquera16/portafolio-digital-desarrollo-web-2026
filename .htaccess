@@ -1,0 +1,8 @@
+Options -Indexes
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule (^|/)\. - [F]
+</IfModule>
+<FilesMatch "^(README\.md|plan\.md|TODO\.md)$">
+  Require all denied
+</FilesMatch>
